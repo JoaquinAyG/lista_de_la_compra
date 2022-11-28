@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">lista_de_la_compra</string>
+    <string name="total_sample">10</string>
+    <string name="text_sample">sample</string>
+    <string name="formulario">Formulario</string>
+    <string name="carrito">Carrito</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="go_back">Return</string>
+    <string name="age_txt">Rango de edad:</string>
+    <string name="send">Send</string>
+    <string name="liked">Te ha gustado la app</string>
+    <string name="buy">Productos mas comprados:</string>
+    <string name="lacteos">Lacteos</string>
+    <string name="carnes">Carnes</string>
+    <string name="verduras">Verduras</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="frutas">Frutas</string>
+    <string name="embasados">Embasados</string>
+    <string name="pan">Panaderia</string>
+    <string-array name="ages">
+        <item>Menos de 18</item>
+        <item>Entre 18 y 40</item>
+        <item>Entre 40 y 60</item>
+        <item>Más de 60</item>
+    </string-array>
+</resources>

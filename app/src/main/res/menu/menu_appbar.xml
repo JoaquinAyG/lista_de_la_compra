@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_formulario"
+        android:title="@string/formulario"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_carrito"
+        android:title="@string/carrito"
+        app:showAsAction="never"/>
+
+</menu>
